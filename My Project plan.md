@@ -1,7 +1,5 @@
-#
-
-
-# My Project Plan
+My Project Plan
+=======================
 
 ***note:*** This document is written merely as an illustrative example, and does not provide any working guide to an actual project.
 
